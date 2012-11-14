@@ -1,0 +1,15 @@
+<Classifiers>	
+
+    <Classifier filename="rightClickClassifier.xml" />
+    <Classifier filename="rightScrollRightClassifier.xml" />
+    <Classifier filename="rightScrollLeftClassifier.xml" />
+    <Classifier filename="rightScrollUpClassifier.xml" />
+    <Classifier filename="rightScrollDownClassifier.xml" />
+    
+	<Classifier filename="leftClickClassifier.xml" />
+	<Classifier filename="leftScrollRightClassifier.xml" />
+    <Classifier filename="leftScrollLeftClassifier.xml" />
+    <Classifier filename="leftScrollUpClassifier.xml" />
+    <Classifier filename="leftScrollDownClassifier.xml" />
+    
+</Classifiers>
